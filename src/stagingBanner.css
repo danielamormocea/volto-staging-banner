@@ -1,0 +1,8 @@
+
+.stagingBanner {
+    z-index: 2;
+    background-color: #FFFACD;
+    padding: 5px;
+    padding-left: 30px;
+    width: 100%;
+}
