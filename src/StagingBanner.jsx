@@ -21,7 +21,7 @@ const StagingBanner = () => {
     return (
       <div>
       <div className="stagingBanner" style={{ position: offset > 0 ? "fixed" : "relative" }}>
-        <p> <i class="exclamation circle icon"></i> This is a demo/test instance. Do not use it for operational purposes. All changes will be regularly overwritten. </p>
+        <p> <i className="exclamation circle icon"></i> This is a demo/test instance. Do not use it for operational purposes. All changes will be regularly overwritten. </p>
       </div>
       </div>
     );
